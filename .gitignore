@@ -130,4 +130,6 @@ dist
 .pnp.*
 
 #https certificates
-selfsigned.*
+*.crt 
+*.key
+
